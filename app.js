@@ -2,6 +2,7 @@
 // include packages and define server related variables
 const express = require("express");
 const exphbs = require("express-handlebars");
+// 向 @阿全同學致敬 這方式真的好用!
 const customHelpers = require("./handlebars-helpers");
 
 const bodyParser = require("body-parser");
